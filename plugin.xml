@@ -35,7 +35,7 @@
         </feature>
       </config-file>
 
-      <source-file src="src/android/cordovanetworkmanager/cordovaNetworkManager.java" target-dir="src/android/cordovanetworkmanager" />
+      <source-file src="src/android/cordovanetworkmanager/cordovaNetworkManager.java" target-dir="src/org/apache/cordova/networkmanager" />
     </platform>
 
     <platform name="ios">
